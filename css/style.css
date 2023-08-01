@@ -1,0 +1,13 @@
+h2{
+    color: rgb(255, 238, 0);
+}
+body{
+    text-align: center;
+    background-color:red;
+}
+button{
+    border: none;
+    background-color: transparent;
+    color: black;
+    cursor: pointer;
+}
